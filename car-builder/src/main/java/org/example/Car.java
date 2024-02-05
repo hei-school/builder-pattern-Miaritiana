@@ -15,4 +15,8 @@ public class Car {
                 ", engineType='" + engineType + '\'' +
                 '}';
     }
+
+    public String getEngineType() {
+        return engineType;
+    }
 }
